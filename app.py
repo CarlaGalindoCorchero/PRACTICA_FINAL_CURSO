@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import MinMaxScaler
 from scipy.spatial import distance
 import plotly.graph_objects as go
 import seaborn as sns
@@ -53,15 +52,15 @@ df = df.dropna(subset=metric_cols)
 #--------------------------------------------------------------
 
 @st.cache_data
-def normalize_metrics(data: pd.DataFrame, cols: list):
-    scaler = MinMaxScaler()
-    scaled = scaler.fit_transform(data[cols])
-    norm_df = data.copy()
-    for i, c in enumerate(cols):
-        norm_df[c + "_norm"] = scaled[:, i]
-    return norm_df, scaler
+def minmax_scale(df, cols):
+    df_scaled = df.copy()
+    for col in cols:
+        min_val = df[col].min()
+        max_val = df[col].max()
+        df_scaled[col + "_norm"] = (df[col] - min_val) / (max_val - min_val)
+    return
 
-df_norm, scaler = normalize_metrics(df, metric_cols)
+df_norm = minmax_scale(df, metric_cols)
 norm_cols = [c + "_norm" for c in metric_cols]
 
 #--------------------------------------------------------------
