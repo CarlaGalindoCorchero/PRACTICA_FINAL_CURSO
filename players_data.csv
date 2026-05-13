@@ -1,0 +1,51 @@
+Nombre,Edad,Equipo,Liga,Valor_Mercado,Goles,Asistencias,Pases_%,Regates,Recuperaciones,Duelos_Aereos,xG,Potencial,Coord_X_Media,Coord_Y_Media
+Vinícius Jr,24,Real Madrid,La Liga,200,18,12,82.5,165,65,15,16.2,94,82,78
+Erling Haaland,24,Manchester City,Premier League,200,38,5,76.4,25,20,82,32.4,95,88,50
+Jude Bellingham,21,Real Madrid,La Liga,180,20,10,88.9,90,115,48,17.1,97,72,52
+Kylian Mbappé,25,Real Madrid,La Liga,180,30,11,84.8,140,50,22,26.5,95,82,65
+Phil Foden,24,Manchester City,Premier League,150,22,14,89.2,110,75,30,19.4,94,74,70
+Bukayo Saka,23,Arsenal,Premier League,140,18,15,83.1,105,70,28,15.8,93,76,22
+Florian Wirtz,21,Bayer Leverkusen,Bundesliga,130,14,18,87.5,125,85,25,12.4,96,70,55
+Jamal Musiala,21,Bayern Munich,Bundesliga,130,12,14,86.2,155,90,20,11.2,96,72,60
+Lamine Yamal,17,FC Barcelona,La Liga,120,8,12,85.1,180,55,12,9.4,99,78,82
+Rodri,28,Manchester City,Premier League,120,9,10,94.2,40,195,65,7.2,92,48,50
+Harry Kane,31,Bayern Munich,Bundesliga,100,36,12,85.4,35,50,75,29.8,90,84,52
+Cole Palmer,22,Chelsea,Premier League,90,25,15,84.2,95,65,20,21.5,94,75,40
+Declan Rice,25,Arsenal,Premier League,120,8,9,91.8,45,180,72,6.1,93,52,48
+Lautaro Martínez,27,Inter Milan,Serie A,110,27,6,79.2,55,80,58,24.5,91,85,48
+Martin Ødegaard,25,Arsenal,Premier League,110,12,14,90.5,70,105,22,12.8,92,72,65
+Antoine Griezmann,33,Atletico Madrid,La Liga,25,16,16,87.1,75,120,38,14.2,88,70,50
+Federico Valverde,26,Real Madrid,La Liga,120,10,10,89.5,85,150,55,9.2,93,65,45
+Rafael Leão,25,AC Milan,Serie A,90,14,12,80.5,170,45,28,13.1,92,80,85
+Kevin De Bruyne,33,Manchester City,Premier League,45,6,20,91.2,55,80,20,8.4,90,68,55
+Nico Williams,22,Athletic Club,La Liga,70,10,16,81.4,160,60,18,11.5,93,82,88
+Pedri,21,FC Barcelona,La Liga,80,5,8,92.4,80,135,25,6.2,95,62,48
+Gavi,20,FC Barcelona,La Liga,90,4,6,88.5,70,165,45,5.1,95,58,52
+Aurélien Tchouaméni,24,Real Madrid,La Liga,100,3,5,92.8,30,175,85,2.8,93,42,50
+William Saliba,23,Arsenal,Premier League,80,2,2,93.5,15,160,92,1.5,94,25,50
+Theo Hernández,27,AC Milan,Serie A,60,6,8,84.2,110,110,65,5.8,91,55,85
+Bruno Guimarães,26,Newcastle,Premier League,85,8,12,89.1,75,170,58,7.5,92,55,45
+Victor Osimhen,25,Napoli,Serie A,100,20,4,74.5,45,35,88,18.4,93,86,50
+Alexander Isak,25,Newcastle,Premier League,75,23,5,78.2,75,40,65,20.8,92,85,55
+Kobbie Mainoo,19,Manchester United,Premier League,55,4,4,92.1,85,105,35,4.2,96,52,48
+Endrick,18,Real Madrid,La Liga,60,10,2,79.5,110,40,45,9.8,98,84,52
+Warren Zaïre-Emery,18,PSG,Ligue 1,60,5,8,91.8,70,125,32,5.5,96,55,52
+Pau Cubarsí,17,FC Barcelona,La Liga,40,0,2,94.5,25,95,78,0.8,97,32,48
+Savinho,20,Manchester City,Premier League,50,11,12,82.4,145,58,15,10.2,93,78,85
+Alejandro Grimaldo,29,Bayer Leverkusen,Bundesliga,45,12,18,86.5,80,105,30,9.8,88,58,88
+Xavi Simons,21,RB Leipzig,Bundesliga,80,10,15,85.2,130,80,25,12.1,95,74,68
+Mohamed Salah,32,Liverpool,Premier League,55,25,14,80.1,92,45,18,22.4,89,82,25
+Virgil van Dijk,33,Liverpool,Premier League,30,3,2,91.5,12,155,95,2.1,89,28,50
+Luis Díaz,27,Liverpool,Premier League,75,12,8,82.4,155,55,22,11.8,90,82,88
+Bruno Fernandes,30,Manchester United,Premier League,70,14,15,79.5,65,110,32,13.5,89,68,55
+Alexis Mac Allister,25,Liverpool,Premier League,75,7,9,88.2,72,145,45,6.8,91,58,50
+Bernardo Silva,30,Manchester City,Premier League,70,8,12,90.5,95,115,25,7.9,89,65,65
+Vitinha,24,PSG,Ligue 1,55,7,8,91.2,88,130,28,5.4,92,58,52
+Joao Neves,20,PSG,Ligue 1,60,3,6,92.5,75,160,40,2.5,96,52,50
+Arda Güler,19,Real Madrid,La Liga,45,6,4,88.1,95,45,15,4.8,97,75,65
+Dušan Vlahović,24,Juventus,Serie A,65,22,4,74.1,42,25,72,19.2,91,86,50
+Nicolò Barella,27,Inter Milan,Serie A,80,5,10,87.4,82,140,35,5.9,90,62,48
+Alphonso Davies,23,Bayern Munich,Bundesliga,50,2,6,86.2,145,95,55,2.8,92,60,92
+Alessandro Bastoni,25,Inter Milan,Serie A,70,1,4,90.8,35,135,82,1.2,93,32,55
+Eduardo Camavinga,21,Real Madrid,La Liga,100,2,4,91.5,95,165,58,2.4,95,55,60
+Trent Alexander-Arnold,26,Liverpool,Premier League,70,3,12,79.8,62,105,28,4.5,91,48,88
